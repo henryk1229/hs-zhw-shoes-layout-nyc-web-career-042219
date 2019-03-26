@@ -35,7 +35,8 @@
 }
 
 .col-3 {
-  
+  column-span: all;
 }
+
 
 
